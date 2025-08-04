@@ -34,7 +34,7 @@ Fraudulent financial transactions often exhibit rare, unpredictable behavior, ma
 
 LIME was used to explain individual predictions by identifying which features (like transaction duration, protocol type, etc.) contributed to a fraud classification.
 
-![LIME Explanation](images/lime_explanation.png)
+![LIME Explanation](lime_explanation.png)
 
 ## 📈 Performance
 
